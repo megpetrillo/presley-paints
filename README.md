@@ -1,6 +1,7 @@
 # codemix-vanilla-react
-Template for project creation of React inside CodeMix
+Presley Paints
+Unique Color Slabs of the heart
 
 ## Contents
 
-The template project is just an example Hello World that guide you through the use of React with the Expressjs framework to build a very simple web application that display the Hello World!!! Greeting
+A website created to showcase the artwork by Madison Presley. Unique and original paintings are displayed in the gallery.
