@@ -1,0 +1,33 @@
+$backgroundDefault : #000000;
+$fontColorDefault : #FFFFFF;
+
+.navbar-inverse {
+	background-color: $backgroundDefault !important;
+	color: $fontColorDefault !important;
+}
+
+.navbar-inverse .navbar-toggle {
+	background-color: $backgroundDefault !important;
+	color: $colorDefault !important;
+}
+
+.navbar-inverse .navbar-collapse{
+	background-color: $backgroundDefault !important;
+	color: $colorDefault !important;
+}
+
+.navbar-inverse .navbar-dropdown {
+	background-color: $backgroundDefault !important;
+	color: $colorDefault !important;
+}
+
+.navbar-inverse .navbar-dropdown .navbar-dropdown-item{
+	background-color: $backgroundDefault !important;
+	color: $colorDefault !important;
+}
+
+.navbar-inverse .navbar-link {
+	background-color: $backgroundDefault !important;
+	color: $colorDefault !important;
+}
+
