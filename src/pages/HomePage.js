@@ -1,6 +1,6 @@
 import React from 'react';
 import {Jumbotron, Button} from 'react-bootstrap';
-import logo from '../images/jumbotron-background.JPG';
+import logo from '../images/madison-gallery-jumbotron-img-larger.jpg';
 
 export default class HomePage extends React.Component {
 
@@ -10,7 +10,8 @@ export default class HomePage extends React.Component {
 			backgroundImage: 'url(' + logo + ')',
 			backgroundSize: 'cover',
 			color: '#FFFFFF',
-			backgroundRepeat: 'no-repeat'
+			backgroundRepeat: 'no-repeat',
+			height: 350 + 'px'
 		};
 		return(
 			<div className="container" style={{width: 100 + '%'}}>

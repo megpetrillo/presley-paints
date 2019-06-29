@@ -1,33 +1,68 @@
-$backgroundDefault : #000000;
-$fontColorDefault : #FFFFFF;
+.navbar .navbar-light {
+	background-color: #000000 !important;
+	color: #ffffff !important;
+}
+
+.dropdown-menu .show {
+	background-color: #000000 !important;
+	color: #ffffff !important;
+}
+
+.dropdown-menu {
+	background-color: #000000 !important;
+	color: #ffffff !important;
+	border-radius: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	background-color: #000000 !important;
+	color: #ffffff !important;
+}
+
+.dropdown-toggle .nav-link {
+	background-color: #000000 !important;
+	color: #ffffff !important;
+}
 
 .navbar-inverse {
-	background-color: $backgroundDefault !important;
-	color: $fontColorDefault !important;
+	background-color: #000000 !important;
+	color: #ffffff !important;
+	border-radius: 4px;
 }
 
 .navbar-inverse .navbar-toggle {
-	background-color: $backgroundDefault !important;
-	color: $colorDefault !important;
+	background-color: #000000 !important;
+	color: #ffffff !important;
 }
 
 .navbar-inverse .navbar-collapse{
-	background-color: $backgroundDefault !important;
-	color: $colorDefault !important;
+	background-color: #000000 !important;
+	color: #ffffff !important;
 }
 
 .navbar-inverse .navbar-dropdown {
-	background-color: $backgroundDefault !important;
-	color: $colorDefault !important;
+	background-color: #000000 !important;
+	color: #ffffff !important;
 }
 
 .navbar-inverse .navbar-dropdown .navbar-dropdown-item{
-	background-color: $backgroundDefault !important;
-	color: $colorDefault !important;
+	background-color: #000000 !important;
+	color: #ffffff !important;
 }
 
 .navbar-inverse .navbar-link {
-	background-color: $backgroundDefault !important;
-	color: $colorDefault !important;
+	background-color: #000000 !important;
+	color: #ffffff !important;
 }
 
+.btn-outline-success {
+	background-color: #007bff;
+	border-color: #007bff;
+	color: #ffffff;
+}
+
+.btn-outline-success:hover {
+	background-color: #007bcc;
+	border-color: #007bcc;
+	color: #ffffff;
+}
